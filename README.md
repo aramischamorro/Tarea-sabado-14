@@ -14,7 +14,7 @@ Nuestro objetivo es enfocarnos en las zapatillas running y obtener los siguiente
 
 *Lo que yo espero en el trabajo:
 
-Lo que espero es aprender con las herramientas que me den en este ramo para que progesiva pueda mejorar en big data,ademas querer perfeccionas el trabajo el cual estamos haciendo con mi grupo,como primer paso, con mi grupo de trabajo nos pusimos de acuerdo en enfocarnos en la fuente que cada uno escogio y luego compararlas.  
+Lo que espero es aprender con las herramientas que me den en esté ramo para que progesivamente pueda mejorar en big data,ademas querer perfeccionas el trabajo el cual estamos haciendo con mi grupo,como primer paso, con mi grupo de trabajo nos pusimos de acuerdo en enfocarnos en la fuente que cada uno escogio y luego compararlas.  
 La cual yo escogi es la tienda PUMA, en estaverificar quiero verificar a que segmentacion del cliente va enfocado,verificando sus precios mas altos y mas baratos, ademas de promediarlos para compararlas con las fuentes que tienen mis compañeros de grupo.
 
 
