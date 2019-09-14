@@ -1,5 +1,4 @@
 # Tarea-sabado-14
-Proyecto BIG DATA
 Fuentes: New Ballance V/S Reebok V/S PUMA
 Nuestro objetivo es enfocarnos en las zapatillas running y obtener los siguientes puntos: 
 
