@@ -2,8 +2,6 @@
 Proyecto BIG DATA
 Fuentes: New Ballance V/S Reebok V/S PUMA
 
-*Objetivos: 
-
 Nuestro objetivo es enfocarnos en las zapatillas running y obtener los siguientes puntos: 
 
 1.- Comparar las variadas similitudes que tienen las paginas web (fuentes)
